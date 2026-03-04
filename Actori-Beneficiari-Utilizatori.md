@@ -24,7 +24,7 @@ Beneficiarii sunt entități care au avantaje directe din implementarea și func
 - **Beneficii**: Reducerea emisiilor prin optimizare, încurajarea utilizării transportului public
 - **Interes**: Sustenabilitate
 
----
+
 
 ## 2. Utilizatori de Sistem
 
@@ -50,7 +50,7 @@ Utilizatorii de sistem sunt profesioniști care interacționează direct cu sist
 - **Responsabilități**: Configurare și întreținere a software-ului, gestiunea utilizatorilor, backup și securitate
 - **Permisiuni**: Acces complet la toate funcționalitățile tehnice și administrative
 
----
+
 
 ## 3. Utilizatori Finali
 
@@ -71,7 +71,7 @@ Utilizatorii finali sunt persoane care beneficiază indirect de serviciile siste
 - **Interacțiune**: API-uri de integrare cu sisteme externe
 - **Necesități**: Date în timp real despre stare trafic și anomalii
 
----
+
 
 ## 4. Relații între Actori
 
@@ -96,7 +96,7 @@ Sistem de Gestionare a Mersului Trenurilor
     └── Servicii de Informare
 ```
 
----
+
 
 ## 5. Prioritate și Considerații de Securitate
 
