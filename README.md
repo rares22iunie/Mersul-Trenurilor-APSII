@@ -9,4 +9,6 @@ Un sistem de gestionare a mersului trenurilor sau metroului este o platforma car
 
 ![WhatsApp Image 2026-03-11 at 16 54 41](https://github.com/user-attachments/assets/08cbf158-624f-4654-a497-05ed8694cbfa)
 <img width="396" height="561" alt="Diagrama_secventiala" src="https://github.com/user-attachments/assets/3152e7b6-678b-4209-af7a-2b10889afb1a" />
+![WhatsApp Image 2026-03-18 at 17 15 56](https://github.com/user-attachments/assets/b20ca776-f4ba-44e7-aff9-5dc2d46cccb7)
+
 
