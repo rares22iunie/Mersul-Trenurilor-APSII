@@ -1,4 +1,4 @@
-# Numeclator
+# Nomenclator
 
 - **Orar**: Lista orelor la care trenurile pleaca si ajung.
 - **Ruta**: Traseul parcurs de un tren intre doua puncte.
