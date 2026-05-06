@@ -5,3 +5,4 @@
 - **Intarziere**: Diferenta de timp fata de ora planificata.
 - **Peron**: Zona din statie unde opreste trenul pentru pasageri.
 - **Dispecer**: Persoana care supravegheaza si coordoneaza circulatia trenurilor.
+- **ETA**: Timpul estimat de sosire.
